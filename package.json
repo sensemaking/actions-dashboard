@@ -1,0 +1,17 @@
+{
+  "name": "actions-dashboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chris@sensemaking.uk.com <chris@sensemaking.uk.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0-alpha.3.2"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "watch": "parcel index.html"
+  }
+}
